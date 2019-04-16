@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int funcRef1()
 {
 	int abcd = 555;
 	abcd = abcd + 111;

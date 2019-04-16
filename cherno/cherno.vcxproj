@@ -154,6 +154,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="cherno.cpp" />
+    <ClCompile Include="classes.cpp" />
     <ClCompile Include="pointer.cpp" />
     <ClCompile Include="references.cpp" />
   </ItemGroup>
