@@ -157,6 +157,10 @@
     <ClCompile Include="classes.cpp" />
     <ClCompile Include="pointer.cpp" />
     <ClCompile Include="references.cpp" />
+    <ClCompile Include="virtualFunctions.cpp" />
+    <ClCompile Include="staticinclass.cpp" />
+    <ClCompile Include="staticincppMain.cpp" />
+    <ClCompile Include="staticincpp.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
