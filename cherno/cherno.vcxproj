@@ -155,12 +155,16 @@
   <ItemGroup>
     <ClCompile Include="cherno.cpp" />
     <ClCompile Include="classes.cpp" />
+    <ClCompile Include="MemberInitializerLists.cpp" />
     <ClCompile Include="pointer.cpp" />
     <ClCompile Include="references.cpp" />
+    <ClCompile Include="arrays.cpp" />
+    <ClCompile Include="stringLiterals.cpp" />
     <ClCompile Include="virtualFunctions.cpp" />
     <ClCompile Include="staticinclass.cpp" />
     <ClCompile Include="staticincppMain.cpp" />
     <ClCompile Include="staticincpp.cpp" />
+    <ClCompile Include="visibility.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
